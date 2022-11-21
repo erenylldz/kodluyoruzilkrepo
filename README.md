@@ -12,4 +12,6 @@ Bu repo kodluyoruz front-end eğitiminde oluşturduğumuz ilk repo,içerisinde b
  cd .
  # CONTRİBUTİNG
  Pull requestler kabul edilir. Buyuk değişiklikler için lutfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
- 
+
+ # LİCENSE 
+ MIT
